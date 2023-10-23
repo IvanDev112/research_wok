@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/myapp.dir/src/Game.cpp.o CMakeFiles/myapp.dir/src/ResourceManager.cpp.o CMakeFiles/myapp.dir/src/SpriteRenderer.cpp.o CMakeFiles/myapp.dir/src/main.cpp.o CMakeFiles/myapp.dir/src/utils/Shader.cpp.o CMakeFiles/myapp.dir/src/utils/Texture2D.cpp.o -o myapp  /usr/lib/libglfw.so.3.3 /usr/lib/libGL.so /usr/lib/libGLEW.so 

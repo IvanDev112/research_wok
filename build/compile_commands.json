@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/ivandev/Projects/opengl_game/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/myapp.dir/src/Game.cpp.o -c /home/ivandev/Projects/opengl_game/src/Game.cpp",
+  "file": "/home/ivandev/Projects/opengl_game/src/Game.cpp",
+  "output": "CMakeFiles/myapp.dir/src/Game.cpp.o"
+},
+{
+  "directory": "/home/ivandev/Projects/opengl_game/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/myapp.dir/src/ResourceManager.cpp.o -c /home/ivandev/Projects/opengl_game/src/ResourceManager.cpp",
+  "file": "/home/ivandev/Projects/opengl_game/src/ResourceManager.cpp",
+  "output": "CMakeFiles/myapp.dir/src/ResourceManager.cpp.o"
+},
+{
+  "directory": "/home/ivandev/Projects/opengl_game/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/myapp.dir/src/SpriteRenderer.cpp.o -c /home/ivandev/Projects/opengl_game/src/SpriteRenderer.cpp",
+  "file": "/home/ivandev/Projects/opengl_game/src/SpriteRenderer.cpp",
+  "output": "CMakeFiles/myapp.dir/src/SpriteRenderer.cpp.o"
+},
+{
+  "directory": "/home/ivandev/Projects/opengl_game/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/myapp.dir/src/main.cpp.o -c /home/ivandev/Projects/opengl_game/src/main.cpp",
+  "file": "/home/ivandev/Projects/opengl_game/src/main.cpp",
+  "output": "CMakeFiles/myapp.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ivandev/Projects/opengl_game/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/myapp.dir/src/utils/Shader.cpp.o -c /home/ivandev/Projects/opengl_game/src/utils/Shader.cpp",
+  "file": "/home/ivandev/Projects/opengl_game/src/utils/Shader.cpp",
+  "output": "CMakeFiles/myapp.dir/src/utils/Shader.cpp.o"
+},
+{
+  "directory": "/home/ivandev/Projects/opengl_game/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/myapp.dir/src/utils/Texture2D.cpp.o -c /home/ivandev/Projects/opengl_game/src/utils/Texture2D.cpp",
+  "file": "/home/ivandev/Projects/opengl_game/src/utils/Texture2D.cpp",
+  "output": "CMakeFiles/myapp.dir/src/utils/Texture2D.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/home/ivandev/Projects/opengl_game/build/CMakeFiles/myapp.dir
+/home/ivandev/Projects/opengl_game/build/CMakeFiles/edit_cache.dir
+/home/ivandev/Projects/opengl_game/build/CMakeFiles/rebuild_cache.dir
